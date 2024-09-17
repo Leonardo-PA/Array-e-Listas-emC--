@@ -1,0 +1,42 @@
+C:\Users\leopd\Desktop\Exemplosfundamentos\bin\Debug\net8.0\Exemplosfundamentos.exe
+C:\Users\leopd\Desktop\Exemplosfundamentos\bin\Debug\net8.0\Exemplosfundamentos.deps.json
+C:\Users\leopd\Desktop\Exemplosfundamentos\bin\Debug\net8.0\Exemplosfundamentos.runtimeconfig.json
+C:\Users\leopd\Desktop\Exemplosfundamentos\bin\Debug\net8.0\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Exemplosfundamentos\bin\Debug\net8.0\Exemplosfundamentos.pdb
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\refint\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.pdb
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\Exemplosfundamentos.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Exemplosfundamentos\obj\Debug\net8.0\ref\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\bin\Debug\net8.0\Exemplosfundamentos.exe
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\bin\Debug\net8.0\Exemplosfundamentos.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\bin\Debug\net8.0\Exemplosfundamentos.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\bin\Debug\net8.0\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\bin\Debug\net8.0\Exemplosfundamentos.pdb
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\refint\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.pdb
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\Exemplosfundamentos.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\teste - Backup\obj\Debug\net8.0\ref\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\bin\Debug\net8.0\Exemplosfundamentos.exe
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\bin\Debug\net8.0\Exemplosfundamentos.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\bin\Debug\net8.0\Exemplosfundamentos.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\bin\Debug\net8.0\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\bin\Debug\net8.0\Exemplosfundamentos.pdb
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\refint\Exemplosfundamentos.dll
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.pdb
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\Exemplosfundamentos.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\ArrayLista\teste\obj\Debug\net8.0\ref\Exemplosfundamentos.dll
