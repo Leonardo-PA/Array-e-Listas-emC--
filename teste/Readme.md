@@ -1,18 +1,22 @@
-# <p align="center"> 👨‍💻Conhecendo a organização de um Programa C# 👨‍💻 </p>
+# <p align="center"> 👨‍💻Arrays e listas em C# 👨‍💻 </p>
 
-## Estudos das estruturas de um projeto e metodos pirncipais, estudar quais arquivos principais em um .NET, como idietifica-los e para que eles servem,  Estudos das estruturas:
+## Nessa Etapa está sendo estudado os metodos de utilização dos Arrays e suas estruturas de dados, armazenamentos e valores e também como eles se comportam com relação as modificações feitas no sistema do meu projeto, além da formatação e listas presentese no porjeto
 
 ###
 ## <p align="center"> Etapa 1 </p>
 ###  ✏️Estruturas de um programa e métopdo principal:
 
-Estudo dos metodos de estrutura e como elas funciona, as suas aplicações e uso dentro dos aqrquivos, arquivos e projetos fluxograma de estrutura de projetos, funcionamento do terminal e comunicaçõa dos arquvios .csproj, .sln  
+Estudo dos metodos de estruturas dos ARRAYS e os comportamentos das listas assim como elas funcionam, 
 
-- Estruturas de um programa C#
-- Criando nosso novo projeto
-- Organizando e referenciando projetos
-- Criando um projeto em NET5 e NET6
-- Esntendo o caminho no terminal
+- Introdução Array
+- Implementando um array de inteiros
+- Acessando um indice invalido
+- Percorrendo um array com FOREACH
+- Debugando um Array
+- Redimensinando um array
+- Copiando um array para outro
+- Trabalhando com listas
+- Encerramento do tema
 
 ##
 
